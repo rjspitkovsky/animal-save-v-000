@@ -13,6 +13,7 @@ html {
   #ostrich {
     position: absolute;
     bottom: 100px;
+    right: auto;
   }
 
 }
